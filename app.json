@@ -1,5 +1,5 @@
 {
-    "name": "badshah_MusicPlayer",
+    "name": "princess music player",
     "description": "A Telegram Userbot to play Songs in Voice Chat",
     "logo": "https://telegra.ph/file/12a12ad933f3f972deb61.jpg",
     "keywords": [
@@ -7,7 +7,7 @@
         "VCBot",
         "MusicPlayer"
     ],
-    "repository": "https://github.com/Badshah653/TG-MusicPlayer",
+    "repository": "https://github.com/naira00/princess music bot",
     "env": {
         "SESSION": {
             "description": "Pyrogram String Session",
